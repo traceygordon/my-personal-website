@@ -1,6 +1,64 @@
+body {
+
+    background-color: rgb(245, 245, 229);
+    font-family: "Comic Sans MS";
+    margin: 0;
+}
+
+header,
+footer {
+
+    color: rgb(52, 94, 63);
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
 img {
 
     width: 100vw;
     height: 40vw;
     object-fit: cover
+}
+
+section {
+
+    color: antiquewhite;
+    width: 100vw;
+
+}
+
+
+h2 {
+
+    padding: 5px;
+    background-color: rgb(52, 94, 63);
+    display: flex;
+    justify-content: center;
+}
+
+tr {
+
+    border: 1px;
+    background-color: rgb(171, 45, 45);
+}
+
+table {
+
+    width: 100vw;
+   
+}
+
+h1 {
+
+    font-size: 50px;
+}
+ol, ul {
+   padding-left: 15%;
+   font-size: .9em;
+}
+
+.margin-inc {
+margin-right: 10vw;
+
 }
