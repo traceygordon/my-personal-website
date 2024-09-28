@@ -19,6 +19,8 @@ img {
     width: 100vw;
     height: 40vw;
     object-fit: cover;
+    border-top: 5px solid rgb(171, 45, 45);
+    border-bottom: 5px solid rgb(52, 94, 63);
 }
 
 section {
@@ -35,6 +37,8 @@ h2 {
     background-color: rgb(52, 94, 63);
     display: flex;
     justify-content: center;
+    border-top: 5px solid rgb(171, 45, 45);
+    border-bottom: 5px solid rgb(171, 45, 45);
 }
 
 tr {
@@ -46,6 +50,8 @@ tr {
 table {
 
     width: 100vw;
+    border-top: 5px solid rgb(52, 94, 63);
+    border-bottom: 5px solid rgb(52, 94, 63);
    
 }
 
@@ -61,4 +67,9 @@ ol, ul {
 .margin-inc {
 margin-right: 10vw;
 
+}
+footer {
+
+    font-size: large;
+    margin-bottom: 5vh;
 }
