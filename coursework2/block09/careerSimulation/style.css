@@ -1,0 +1,44 @@
+body {
+
+    background-color: rgb(149, 96, 122);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+
+
+}
+
+
+.header {
+
+    color: rgb(209, 220, 220);
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    border: 1px silver solid;
+}
+
+h2{
+
+    color: rgb(209, 220, 220);
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    border: 1px silver solid;
+}
+
+.card img {
+
+    width: 50%;
+    height: 50%;
+    padding: 5px;
+    margin: 5px;
+    border: 1px silver solid;
+    display: block;
+    margin: 0 auto;
+
+}
+
+footer{
+
+    text-align: center;
+}
